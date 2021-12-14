@@ -1,0 +1,14 @@
+.get_task {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.get_task button {
+  cursor: pointer;
+  font: inherit;
+  color: steelblue;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 4px;
+  padding: 0.5rem 2.5rem;
+}
